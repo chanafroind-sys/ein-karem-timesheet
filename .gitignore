@@ -1,0 +1,11 @@
+node_modules
+.next
+.data
+.vercel
+output
+*.tsbuildinfo
+next-env.d.ts
+
+# environment files hold secrets, but the example file is safe to commit
+.env*
+!.env.example
